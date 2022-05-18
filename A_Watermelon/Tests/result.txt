@@ -1,0 +1,16 @@
+Test 1 Passed
+
+Input 1: 
+8
+
+
+Expected Output : 
+YES
+
+
+Obtained Output : 
+YES
+
+
+________________________________________________________
+
