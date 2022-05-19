@@ -1,0 +1,48 @@
+Test 1 Passed
+
+Input 1: 
+aaaa
+aaaA
+
+
+Expected Output : 
+0
+
+
+Obtained Output : 
+0
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+abs
+Abz
+
+
+Expected Output : 
+-1
+
+
+Obtained Output : 
+-1
+
+________________________________________________________
+
+Test 3 Passed
+
+Input 3: 
+abcdefg
+AbCdEfF
+
+
+Expected Output : 
+1
+
+
+Obtained Output : 
+1
+
+________________________________________________________
+
