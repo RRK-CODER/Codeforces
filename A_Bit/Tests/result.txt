@@ -1,0 +1,35 @@
+Test 1 Passed
+
+Input 1: 
+1
+++X
+
+
+Expected Output : 
+1
+
+
+Obtained Output : 
+1
+
+
+________________________________________________________
+
+Test 2 Passed
+
+Input 2: 
+2
+X++
+--X
+
+
+Expected Output : 
+0
+
+
+Obtained Output : 
+0
+
+
+________________________________________________________
+
